@@ -3,3 +3,4 @@ geopandas
 shapely
 numpy
 gdown
+gunicorn
